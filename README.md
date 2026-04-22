@@ -86,5 +86,42 @@ Tools and Technologies Used:
 * Used heatmap to find relationships between variables
 * Helped identify how different factors are connected
 
+-----------------------------------------------------------------------
+
+Task 3:Car Price Prediction using Machine Learning
+
+task Overview:
+
+This project focuses on predicting the selling price of cars using machine learning techniques. The model is trained on historical car data and learns the relationship between different features such as year, fuel type, kilometers driven, and car brand to estimate the price.
+
+Objective:
+
+* To build a machine learning model for predicting car prices
+* To analyze the impact of different features on car price
+* To understand regression techniques in machine learning
+* To evaluate model performance using different metrics
+  
+The dataset contains various features related to cars, such as:=
+
+
+* Car Name / Brand
+* Year of Purchase
+* Selling Price (Target Variable)
+* Present Price
+* Kilometers Driven
+* Fuel Type (Petrol/Diesel/CNG)
+* Seller Type
+* Transmission (Manual/Automatic)
+* Owner
+
+ Tools and Technologies Used:=
+
+* Python
+* Pandas (Data manipulation)
+* NumPy (Numerical operations)
+* Scikit-learn (Machine learning model)
+* Matplotlib & Seaborn (Visualization)
+
+
 
 
