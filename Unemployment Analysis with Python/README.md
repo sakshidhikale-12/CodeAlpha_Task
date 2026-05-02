@@ -1,4 +1,4 @@
-📉 Unemployment Analysis in India using Python
+📉 Unemployment Analysis using Python
 
 
 📌 Project Description
